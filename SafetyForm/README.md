@@ -6,5 +6,5 @@ There are 2 major steps in the projects:
    - There are multiple types of data while I only filtered for Safety form in the end, as I found there's very little consistancy of data within different type.
    
 2. Create dashboard
-   - The dashboard is created as a example as an safety overview, as well as a safety performance monitor, if there are updated data, for the higher management level in the construction company.
+   - The dashboard can serve as an overview, as well as a performance monitor if there is updated data, for the higher management level who's in charge of overall safety matters across the construction projects or even companies.
    - You can view dashboard on https://public.tableau.com/app/profile/tiffany4587/viz/ConstructionManagement-SafetyForm/Dashboard1
