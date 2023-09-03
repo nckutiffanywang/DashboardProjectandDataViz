@@ -1,9 +1,7 @@
 # Data Project
 This repo stores the project with the data from public resources
-- SafetyForm
-    -  #Tableau #Python #Kaggle
+- Project 1. SafetyForm  #Tableau #Python #Kaggle
     - Simulate a monitor dashboard for construction project based on safety forms
-- Learn UK from ChatGPT + Ultimate Basic Plot Guide 
-    - #Matplotlib #Python #ChatGPT #Kaggle
+- Project 2. Learn UK from ChatGPT + Ultimate Basic Plot Guide  #Matplotlib #Python #ChatGPT #Kaggle
     - Build Charts from Matplotlib & Learn facts about the UK from ChatGPT
     
