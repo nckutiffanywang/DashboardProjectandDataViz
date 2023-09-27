@@ -7,3 +7,6 @@ This repo stores the project with the data from public resources
 - Project 3. NYC Affordable Housing Data Dashboard
     - https://public.tableau.com/views/AffordableHousing-NYC/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
     
+
+
+# Check Out My Tableau Public : https://public.tableau.com/app/profile/tiffany4587/vizzes
