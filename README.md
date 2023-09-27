@@ -9,4 +9,5 @@ This repo stores the project with the data from public resources
     
 
 
-# Check Out My Tableau Public : https://public.tableau.com/app/profile/tiffany4587/vizzes
+# Check Out My Tableau Public Dashboard : 
+https://public.tableau.com/app/profile/tiffany4587/vizzes
