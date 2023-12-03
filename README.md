@@ -1,5 +1,5 @@
 # Data Project
-This repo stores the project with the data from public resources
+
 ## Project 1. Learn UK from ChatGPT + Ultimate Basic Plot Guide  
 ### #Matplotlib #Python #ChatGPT #Kaggle
 Build Charts from Matplotlib & Learn facts about the UK from ChatGPT
