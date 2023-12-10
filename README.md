@@ -1,4 +1,4 @@
-# Data Project
+
 
 ## Project 1. Learn UK from ChatGPT + Ultimate Basic Plot Guide  
 ### #Matplotlib #Python #ChatGPT #Kaggle
